@@ -24,7 +24,10 @@ body {
 a{
     color: #fff;
 }
-
+.listhead{
+    color: black;
+    margin-top: 20%;
+}
 .nav-link{
     margin-left: 20px; 
     margin-right: 20px;
@@ -43,7 +46,7 @@ h2 {
 
 }
 
-.form, form {
+.form, form{
     background-color: white;
 	width: 300px;
     padding: 20px;
@@ -51,6 +54,12 @@ h2 {
     border: 3px black solid;
     margin-top: 40%;
     margin-bottom: 40%;
+}
+
+h1{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    color: black;
 }
 
 form label {
@@ -122,7 +131,7 @@ tr {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     font-weight: 700;
-    color: #fff;
+    
 }
 
 footer{
@@ -141,3 +150,4 @@ footer{
     border-top : 1px solid orangered ;
     border-right: 1px solid red ;
 }
+
