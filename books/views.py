@@ -115,5 +115,5 @@ class BookSearchList(ListAPIView):
     queryset = Books.objects.all()
     serializer_class = BooksSerializer
     filter_backends = [SearchFilter]
-    search_fields = '__all__'
+    search_fields = '['title', 'author__name', 'categories__cat_name']'
     
