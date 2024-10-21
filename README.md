@@ -108,13 +108,6 @@ Here’s where the magic happens! Access the core of our library through these A
     Flexibility: Works like a charm for both web and API users.
     Scalable: Designed to grow with your library.
 
-🤝 Contributing
-
-Feel free to fork this project, raise issues, and contribute to its growth! We're always excited to see new ideas and improvements.
-📜 License
-
-This project is licensed under the MIT License - go ahead and do cool things with it!
-🎉 Acknowledgments
 
     Thanks to the amazing Django and Django REST Framework communities.
     Inspired by all the book lovers and coders out there!
