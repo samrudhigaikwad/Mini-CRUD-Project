@@ -27,8 +27,7 @@ Welcome to the **Books Management Project**, where the world of books, authors, 
 ### Installation Guide
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
+  git clone https://github.com/your-username/your-repo.git
    cd your-repo
 
 2.**Set Up a Virtual Environment**:
@@ -52,68 +51,60 @@ Welcome to the **Books Management Project**, where the world of books, authors, 
 
 📖 The Bookstore Saga
 📝 List Books
-
-    URL: /books/list_books/
-    Description: Browse through the list of all books, like a bookworm at your favorite library.
+  URL: /books/list_books/
+  Description: Browse through the list of all books, like a bookworm at 
+  your favorite library.
 
 ➕ Add Books
-
-    URL: /books/add_books/
-    Description: Add a new book to your collection with a few easy steps.
-
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+    
 ✏️ Update Books
-
-    URL: /books/update_books/<id>/
-    Description: Found a typo in your book details? No problem! Update it right here.
+   URL: /books/update_books/<id>/
+   Description: Found a typo in your book details? No problem! Update it 
+   right here.
+    
 
 ❌ Delete Books
-
-    URL: /books/delete_books/<id>/
-    Description: Say goodbye to a book you no longer need.
+   URL: /books/delete_books/<id>/
+   Description: Say goodbye to a book you no longer need.
 
 👨‍💼 Add Authors
-
-    URL: /books/add_authors/
-    Description: Create new author profiles to enrich your literary world.
+   URL: /books/add_authors/
+   Description: Create new author profiles to enrich your literary world.
 
 🗂️ Add Categories
-
-    URL: /books/add_categorys/
-    Description: Group books into categories to keep things neat and organized.
+   URL: /books/add_categorys/
+   Description: Group books into categories to keep things neat and 
+   organized
 
 🛠️ API Endpoints - For the Developer Wizards
 
 Here’s where the magic happens! Access the core of our library through these API endpoints.
 📚 Books API
-
-    URL: /api/books/
-    Methods: GET, POST, PUT, DELETE
-    Description: Full control over your book data!
+   URL: /api/books/
+   Methods: GET, POST, PUT, DELETE
+   Description: Full control over your book data!
 
 🔍 Book Search API
-
-    URL: /api/books/search/
-    Description: Instantly find any book using the power of search filters.
-
+   URL: /api/books/search/
+   Description: Instantly find any book using the power of search filters.
 👩‍💻 Author API
-
-    URL: /api/authors/
-    Description: Manage all things author-related.
+   URL: /api/authors/
+   Description: Manage all things author-related.
 
 📂 Category API
-
-    URL: /api/categories/
-    Description: Add, update, or remove categories to keep your books in order.
+   URL: /api/categories/
+   Description: Add, update, or remove categories to keep your books in 
+   order.
 
 ✨ Why You'll Love This Project
-
-    Easy to Use: Whether you're a reader or a coder, it's intuitive!
-    Flexibility: Works like a charm for both web and API users.
-    Scalable: Designed to grow with your library.
+   Easy to Use: Whether you're a reader or a coder, it's intuitive!
+   Flexibility: Works like a charm for both web and API users.
+   Scalable: Designed to grow with your library.
 
 🎉 Acknowledgments
-
-    Thanks to the amazing Django and Django REST Framework communities.
-    Inspired by all the book lovers and coders out there!
+   Thanks to the amazing Django and Django REST Framework communities.
+   Inspired by all the book lovers and coders out there!
 
 Happy coding and happy reading! 📚💻
